@@ -1,12 +1,12 @@
-body{
-    background-color:rgb(14, 14, 14);
+body {
+    background-color: rgb(14, 14, 14);
     text-align: center;
 }
 
 .header {
     font-family: 'press start 2P', cursive;
     font-size: 50px;
-    color:rgb(1, 24, 233);
+    color: rgb(1, 24, 233);
 }
 
 .container {
@@ -23,17 +23,23 @@ body{
     height: 250px;
     width: 250px;
     border-radius: 20%;
+    opacity: 1;
+
+  
 }
 
 .yellow {
     background-color: yellow;
 }
+
 .green {
     background-color: green;
 }
+
 .red {
     background-color: red;
 }
+
 .blue {
     background-color: blue;
 }
